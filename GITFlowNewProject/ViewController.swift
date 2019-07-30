@@ -17,7 +17,9 @@ class ViewController: UIViewController {
     
     func gitDev(){
         print("data")
+        print("data1")
     }
+
 
 
 }
